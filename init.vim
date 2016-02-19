@@ -1,0 +1,1 @@
+/Users/aleksandrkusev/.vim/vimrc
